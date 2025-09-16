@@ -1,0 +1,25 @@
+/* 
+ RMIT University Vietnam
+ Course: COSC2769 - Full Stack Development
+ Semester: 2025B
+ Assessment: Assignment 02
+ Author: Do Van Tung, Thieu Gia Huy, Nguyen Phi Long
+ ID: 4053400, 3975542, 3988413
+*/
+
+
+@import './assets/css/animations.css';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
