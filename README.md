@@ -6,7 +6,7 @@
  * ID: 4053400, 3975542, 3988413
  * Demo recording link: https://rmiteduau-my.sharepoint.com/:v:/g/personal/s4053400_rmit_edu_vn/EcAT5eslIm5ArLZdf5iiyfABbabxufQ5uNPUUauqAuESAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2XiLVR
  * Demo recording link extra: https://rmiteduau-my.sharepoint.com/:v:/g/personal/s4053400_rmit_edu_vn/EVkBHfI8iFBFivjKRyc2dT8BRrF2WaTMTrMyid3s7rawLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kxgQhY
- * Github link: 
+ * Github link: https://github.com/rmitrmit/Ecommerce
  * Contributions: Do Van Tung - 33% / Thieu Gia Huy - 33% / Nguyen Phi Long - 33%
 
 # E-commerce Platform
@@ -252,5 +252,6 @@ npm start
 
 
 ## 📄 License
+
 
 Distributed under the MIT License. See `LICENSE` for more information.
